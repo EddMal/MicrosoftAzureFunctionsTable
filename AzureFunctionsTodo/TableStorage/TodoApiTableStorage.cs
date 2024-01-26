@@ -15,7 +15,7 @@ namespace AzureFunctionsTodo.TableStorage;
 
 public static class TodoApiTableStorage
 {
-    private const string Route = "tabletodo";
+    private const string Route = "todo";
     private const string TableName = "todos";
     private const string PartitionKey = "TODO";
 
